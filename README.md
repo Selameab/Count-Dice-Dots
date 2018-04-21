@@ -31,3 +31,4 @@ Example
 ```sh
 $ ./count_dice_dots ../images/dice1.png ../images/dice1_output.png
 ```
+![dice1_output.png](images/dice1_output.png)
